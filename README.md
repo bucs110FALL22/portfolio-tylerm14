@@ -14,4 +14,4 @@ Preferred Name: Tyler
 
 Discord username: Tylor#3418
 
-REPL url: https://replit.com/@tylerm14
+REPL url: https://replit.com/join/mnqjkeyati-tylerm14
