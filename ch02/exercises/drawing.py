@@ -23,6 +23,6 @@ def drawShape():
 myTurtle.shape("turtle")
 myTurtle.color("purple")
 drawShape()
-
+print('Done')
 
 screen.exitonclick()
