@@ -1,7 +1,7 @@
 import random
 
 num = random.randrange(1, 11)
-print(num)
+#print(num)
 
 guesses = 3
 guessNumber = guesses
