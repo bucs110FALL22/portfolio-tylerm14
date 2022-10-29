@@ -1,9 +1,9 @@
 # CS110 Midterm Exam
 
-## SHORT DESCRIPTION *(1 or 2 sentences describing your program)*
+## SHORT DESCRIPTION: Draws a spiral pattern based on user inputed parameters.
 
-## KNOWN BUGS AND INCOMPLETE PARTS *(list any known bugs or non-working parts)*
+## KNOWN BUGS AND INCOMPLETE PARTS: would've been cool to have the pattern be centered
 
-## REFERENCES *(any resources you use outside of class materials)*
+## REFERENCES: the internet (stackoverflow, etc)
 
-## MISCELLANEOUS COMMENTS *(anything else you would like the grader to know)*
+## MISCELLANEOUS COMMENTS: entering 'rainbow' as the color makes it rainbow
