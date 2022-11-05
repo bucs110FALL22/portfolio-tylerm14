@@ -16,13 +16,14 @@ class Rectangle:
     self.width = int(w)
 
   def __str__(self):
-    xStr = self.x
-    yStr = self.y
-    hStr = self.height
-    wStr = self.width
-
-    finalStr = 
-    return 
+    xStr = str(self.x)
+    yStr = str(self.y)
+    hStr = str(self.height)
+    wStr = str(self.width)
+    
+    combined = [xStr, yStr, hStr, wStr]
+    
+    return '(xyhw): ' + str(combined)
     
 #rect = Rectangle(-1, 1, 1, 1)
 #print(rect)
